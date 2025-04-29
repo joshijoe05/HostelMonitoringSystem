@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/joshijoe05/HostelMonitoringSystemBackend
+[submodule "admin_dashboard_web"]
+	path = admin_dashboard_web
+	url = https://github.com/joshijoe05/rgukthms_web
+[submodule "student_app"]
+	path = student_app
+	url = https://github.com/joshijoe05/HMS_App
